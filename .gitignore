@@ -2,3 +2,4 @@
 *.pth
 *.jpg
 *.Identifier
+data/
