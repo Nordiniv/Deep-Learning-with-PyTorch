@@ -19,6 +19,9 @@ The notebooks are organized by chapter and section of the book, making it easy t
 ## Requirements
 
 My environment is described in the file `requirements.txt`. The whole setup is on Ubuntu 20.04.2 on WSL2.
+Of course these notebook are meant to be complementary to the book, so you should have a copy of the book to follow along.
+
+![Deep Learning with PyTorch](https://images.manning.com/360/480/resize/book/3/8e5d003-09e3-430e-a5a3-f42ee1cafb5f/Stevens-DLPy-HI.png)
 
 ## Usage
 
