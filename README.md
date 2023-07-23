@@ -42,4 +42,6 @@ This will open Jupyter Notebook in your web browser. You can then navigate to th
 The notebooks in this repository are based on the examples and exercises from the book "Deep Learning with PyTorch" by Eli Stevens, Luca Antiga, and Thomas Viehmann. We would like to thank the authors for their excellent work and for making their code available to the community.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/nordin-shafiq/)
+<a href="https://www.linkedin.com/in/Nordin-shafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/nordiniv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
