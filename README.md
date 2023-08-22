@@ -40,6 +40,8 @@ jupyter notebook
 
 This will open Jupyter Notebook in your web browser. You can then navigate to the notebook you want to run and click on it to open it.
 
+## Project
+The project covered in part 2 will be done separately in its own [repository](https://github.com/Nordiniv/Early-detection-of-lung-cancer).
 ## Acknowledgments
 
 The notebooks in this repository are based on the examples and exercises from the book "Deep Learning with PyTorch" by Eli Stevens, Luca Antiga, and Thomas Viehmann. We would like to thank the authors for their excellent work and for making their code available to the community.
